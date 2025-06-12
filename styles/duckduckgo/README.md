@@ -17,6 +17,9 @@
 
 See [the userstyle usage instructions](../../docs/USAGE.md).
 
+### UNIMPORTANT FIX
+For right now, the userstyle doesn't cover the scroll beyond page. There's a fix: In settings, there's a theming setting. WITH THE USERSTYLE ENABLED, turn the 'background colour' setting to "#181825".
+
 
 ## 💝 Current Maintainer
 - [GenShibe](https://github.com/GenShibe)
